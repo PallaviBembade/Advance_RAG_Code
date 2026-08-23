@@ -220,3 +220,6 @@ output/
 tmp/
 scripts/
 notebooks/chroma_langchain_db/
+
+
+.env
